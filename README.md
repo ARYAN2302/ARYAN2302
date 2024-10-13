@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARYAN2302
-- 👀 I’m interested in frontend develop , product design , cloud.
-- 🌱 I’m currently learning product design
+- 👀 I’m interested in Backend , Deep Learning , Genrative Ai.
+- 🌱 I’m currently learning Python backend and GEN ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://bio.link/aryanthakur
 
