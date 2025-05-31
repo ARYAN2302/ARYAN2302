@@ -3,7 +3,7 @@
 🎓 B.Tech in Electronics and Communication Engineering (ECE)  
 🎯 Minor in Artificial Intelligence / Machine Learning  
 🏫 Maharaja Agrasen Institute of Technology, IP University, Delhi  
-📍 Delhi NCR, India
+📍 Delhi, India
 
 ---
 
