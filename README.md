@@ -9,10 +9,10 @@
 
 ## 🛠️ Skills
 
-- **Languages**: Python, JavaScript, TypeScript, HTML, CSS
+- **Languages**: Python, JavaScript, TypeScript, CSS
 - **Backend**: FastAPI, Node.js (basic), RESTful APIs, SQLite, Firebase (Firestore)
 - **Frontend**: React Native (Expo), Bootstrap, Tailwind CSS, Responsive UI Design
-- **AI/ML**: TensorFlow, Keras, OpenCV, DeepFace, Computer Vision, CNNs, Image Classification
+- **AI/ML**: TensorFlow,OpenCV, DeepFace, Computer Vision,Image Classification
 - **Tools & Platforms**: Git, GitHub, Postman, Firebase Auth, Google Fit API
 - **Other**: Full-Stack App Development, Data Modeling, Version Control, API Integration, Model Deployment
 
@@ -54,6 +54,6 @@
 
 - GitHub: [github.com/ARYAN2302](https://github.com/ARYAN2302)
 - Twitter: [@aryan_thakur](https://x.com/aryan_thakur)
-- Email: aryanthakur@example.com
+- Email: aryanthakur770@gmail.com.com
 
 Feel free to reach out for collaborations or discussions on exciting projects!
