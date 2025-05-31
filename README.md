@@ -5,16 +5,6 @@
 🏫 Maharaja Agrasen Institute of Technology, IP University, Delhi  
 📍 Delhi, India
 
----
-
-## 🛠️ Skills
-
-- **Languages**: Python, JavaScript, TypeScript, CSS
-- **Backend**: FastAPI, Node.js (basic), RESTful APIs, SQLite, Firebase (Firestore)
-- **Frontend**: React Native (Expo), Bootstrap, Tailwind CSS, Responsive UI Design
-- **AI/ML**: TensorFlow,OpenCV, DeepFace, Computer Vision,Image Classification
-- **Tools & Platforms**: Git, GitHub, Postman, Firebase Auth, Google Fit API
-- **Other**: Full-Stack App Development, Data Modeling, Version Control, API Integration, Model Deployment
 
 ---
 
@@ -46,9 +36,6 @@
 
 - **Runner-up**, ACM Hackathon (1,200+ teams): Developed SATVIK, an AI-powered wellness app using computer vision and ML.
 - **2nd Runner-up**, Hansraj Innoverse Hackathon (1,000+ teams): Created Saheli, a financial literacy app.
-- **Top 1,000 / 100,000+**, EY Techathon 5.0: Designed AI-based tools for personalized budgeting and savings.
-
----
 
 ## 📫 Let's Connect
 
