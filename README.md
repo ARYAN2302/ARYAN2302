@@ -53,7 +53,7 @@
 ## 📫 Let's Connect
 
 - GitHub: [github.com/ARYAN2302](https://github.com/ARYAN2302)
-- Twitter: [@aryan_thakur](https://x.com/aryan_thakur)
+- Twitter: [@aryan_thakur](https://x.com/aryanth80011070)
 - Email: aryanthakur770@gmail.com.com
 
 Feel free to reach out for collaborations or discussions on exciting projects!
