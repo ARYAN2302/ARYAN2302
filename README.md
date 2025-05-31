@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Aryan Thakur
 
 🎓 B.Tech in Electronics and Communication Engineering (ECE)  
-🎯 Minor in Artificial Intelligence / Machine Learning  
-🏫 Maharaja Agrasen Institute of Technology, IP University, Delhi  
+🎯 Minor in Artificial Intelligence / Machine Learning   
 📍 Delhi, India
 
 
