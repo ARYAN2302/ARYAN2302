@@ -14,11 +14,6 @@
 - Implemented DeepFace and cosine similarity for reliable identity verification.
 - Designed a user-friendly interface for registration, real-time detection, and CSV export.
 
-### [Organic-AI – Waste Classification Using CNNs](https://github.com/ARYAN2302/organic-ai)
-- Created a CNN model to classify waste as organic/inorganic with ~92% accuracy.
-- Integrated prediction API with a responsive upload interface for real-time waste detection.
-- Targeted smart-bin use cases to encourage sustainable disposal habits.
-
 ### [Saheli – AI-Driven Financial Literacy App](https://github.com/ARYAN2302/Saheli)
 - Built a 10+ screen mobile app for personalized budgeting, savings advice, and financial education.
 - Integrated multilingual support (3+ languages), Firebase backend, and offline functionality.
@@ -29,6 +24,12 @@
 - Integrated food detection AI model via FastAPI with over 90% accuracy.
 - Utilized Firebase Auth and Firestore to manage meals, activities, water intake, and user profiles.
 
+### [Organic-AI – Eco-friendly product alternatives](https://github.com/ARYAN2302/organic-ai)
+
+- Developed Organic AI Full-Stack App: Built a web app using Node.js, Express, and React to
+recommend eco-friendly products with OpenAI and OpenFoodFacts APIs.
+- Integrated AI for Product Recommendations: Leveraged OpenAI API to provide sustainable
+product alternatives, enhancing user eco-conscious decision-making.
 ---
 
 ## 🏆 Achievements
