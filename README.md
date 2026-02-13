@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aryan Thakur
 
-AI Systems Engineer focused on agentic workflows,
+AI Research Engineer focused on agentic workflows,
 
 
